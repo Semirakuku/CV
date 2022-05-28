@@ -1,0 +1,19 @@
+img{
+    border-radius: 50%;
+}
+.love{
+    color: #Ce49bf;
+    border: 50px;
+}
+.done{
+    color: rgb(12, 82, 9);
+}
+body{
+    background-color: antiquewhite;
+    border-style: dashed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
